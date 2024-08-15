@@ -23,3 +23,8 @@
 | 일정 조회 | GET | http://localhost:8080/api/schedules/id |  |  | 200(성공 상태) |
 | 일정 목록 조회 | GET | http://localhost:8080/api/schedules |  |  | 200(성공 상태) |
 | 일정 삭제 | DELETE | http://localhost:8080/api/schedules/id |  |  | 200(성공 상태) |
+
+
+## 📅 ERD
+
+![NBC Schedular (3)](https://github.com/user-attachments/assets/c2542f1d-b923-46bf-9f92-772573055928)
